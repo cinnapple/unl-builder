@@ -1,0 +1,8 @@
+{
+  "demo": true,
+  "xrptipbot": {
+    "amount": 0.5,
+    "to": "CinnappleFun",
+    "network": "twitter"
+  }
+}

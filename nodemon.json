@@ -1,7 +1,0 @@
-{
-  "watch": ["./next.config.js", "*.ts"],
-  "ignore": [],
-  "execMap": {
-    "ts": "ts-node --compilerOptions '{\"module\":\"commonjs\"}'"
-  }
-}
